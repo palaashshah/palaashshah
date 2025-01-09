@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working on my College & some side projects
-- 🌱 I’m currently learning HTML, JAVASCRIPT & REACT
-- 💬 Ask me about Python/C
+- 🌱 I’m currently learning JAVA
+- 💬 Ask me about Python/C/C++
 <!--
 **palaashshah/palaashshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
